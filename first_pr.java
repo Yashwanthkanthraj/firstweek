@@ -19,5 +19,4 @@ public class first_pr { // class
  * (/t) - tab long space
  * (//) - single line comment
  * (/*) - multi line comment 
- * */git status
- 
+ * */
