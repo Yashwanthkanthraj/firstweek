@@ -12,3 +12,12 @@ public class first_pr { // class
     }
 
 }
+
+
+/*NOTE
+ * (/n) -control moves to next line
+ * (/t) - tab long space
+ * (//) - single line comment
+ * (/*) - multi line comment 
+ * */git status
+ 
