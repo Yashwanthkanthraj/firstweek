@@ -1,3 +1,7 @@
+package firstweek.dayone;
+
+
+
 public class Dog {
   // fields
   String breed;

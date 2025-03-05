@@ -1,4 +1,4 @@
-
+package firstweek.dayone;
     
 
 public class Main {

@@ -1,4 +1,6 @@
 package firstweek.dayone;
+
+
 //Write a program to compare two strings using the equals() method and
 // print whether they are equal or not.
 public class equalsMethod {
